@@ -1,10 +1,17 @@
 # InfoRoots
 A Software Design & Documentation Project at RPI 
+
 ### Team Members
 - Siwen Zhang
 - Joseph Om
 - Jianing Lin
 - Lei Luo
+
+## Deliverables
+
+Final Presentation Powerpoint avaliable to view at https://docs.google.com/presentation/d/1rvt35Mtbf_6vOBzyxNCKWcT4FNsk7dCSv49777OtkOU/edit#slide=id.g746e174ecc_3_27.
+Demo avaliable to view at https://vimeo.com/472405122.
+
 
 ### Vision Statements
 ##### Executive Summary
